@@ -1,0 +1,26 @@
+body{
+    background-image: url('https://pngimage.net/wp-content/uploads/2018/06/map-background-png-3.png');
+    background-size: cover;
+}
+h1{
+    margin-left: 33rem;
+    color: rgb(16, 49, 5);
+    margin-top: 35px;
+}
+label{
+   color:  rgb(16, 49, 5);
+   margin-left: 10px;
+   /* background-color: red; */
+}
+input {
+    /* box-shadow: limegreen; */
+    width: 20rem;
+    height: 5rem;
+    margin-left: 35rem;
+    background:  rgb(142, 190, 128);
+    color: rgb(7, 7, 7);
+    text-align: center;
+    margin-top: 3rem;
+    border-radius: 10px;
+    border-color: rgb(253, 59, 10);
+}
